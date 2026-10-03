@@ -1,3 +1,5 @@
+> **Moved.** This work now lives in [MinCrossingsKnightsTour/bounds-2026](https://github.com/nmamano/MinCrossingsKnightsTour/tree/master/bounds-2026), together with the 2019 paper code. That folder gets all updates; this repository is no longer updated.
+
 # knights-tour-bounds
 
 Bounds on the minimum number of **crossings** and **turns** of a closed knight's tour on an n &times; n board,
